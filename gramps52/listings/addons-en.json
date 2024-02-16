@@ -1,0 +1,22 @@
+[
+{
+"n": "Import Geneanet format gwplus",
+"i": "Import Geneanet format gwplus",
+"t": 3,
+"d": "Import gwplus from geneanet",
+"v": "0.0.18",
+"g": "5.2",
+"s": 0,
+"z": "ImportGenewebPlus.addon.tgz"
+},
+{
+"n": "Export GEDCOM for Geneanet ",
+"i": "Export GEDCOM for Geneanet",
+"t": 4,
+"d": "Extensions to the common GEDCOM format for Geneanet transfert.",
+"v": "2.1.44",
+"g": "5.2",
+"s": 0,
+"z": "GedcomforGeneanet.addon.tgz"
+}
+]
