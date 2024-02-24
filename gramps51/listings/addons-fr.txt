@@ -1,2 +1,2 @@
-{"t":'Exporter',"i":'Export GEDCOM for Geneanet',"n":'Exportation GEDCOM spécifique à Généanet ',"v":'2.1.22',"g":'5.1',"d":'Extensions du format courant Gedcom pour un transfert vers Généanet',"z":'GedcomforGeneanet.addon.tgz'}
+{"t":'Exporter',"i":'Export GEDCOM for Geneanet',"n":'Exportation GEDCOM spécifique à Généanet ',"v":'2.1.49',"g":'5.1',"d":'Extensions du format courant Gedcom pour un transfert vers Généanet',"z":'GedcomforGeneanet.addon.tgz'}
 {"t":'Importer',"i":'Import Geneanet format gwplus',"n":'Import Geneanet format gwplus',"v":'0.0.17',"g":'5.1',"d":'Import gwplus from geneanet',"z":'ImportGenewebPlus.addon.tgz'}
