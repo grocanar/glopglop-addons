@@ -4,7 +4,7 @@
 "i": "Import Geneanet format gwplus",
 "t": 3,
 "d": "Import gwplus from geneanet",
-"v": "0.0.28",
+"v": "0.0.29",
 "g": "5.2",
 "s": 0,
 "z": "ImportGenewebPlus.addon.tgz"
@@ -14,27 +14,17 @@
 "i": "Export GEDCOM for Geneanet",
 "t": 4,
 "d": "Extensions to the common GEDCOM format for Geneanet transfert.",
-"v": "2.1.53",
+"v": "2.1.54",
 "g": "5.2",
 "s": 3,
 "z": "GedcomforGeneanet.addon.tgz"
-},
-{
-"n": "Perso Web Connect Pack",
-"i": "Perso Web Connect Pack",
-"t": 6,
-"d": "Personnal Collection of Web sites (requires libwebconnect)",
-"v": "1.0.3",
-"g": "5.2",
-"s": 0,
-"z": "PersoWebConnectPack.addon.tgz"
 },
 {
 "n": "Sosa Gramplet",
 "i": "Sosa",
 "t": 10,
 "d": "a gramplet that displays sosa of a person",
-"v": "1.0.33",
+"v": "1.0.34",
 "g": "5.2",
 "s": 0,
 "z": "SosaGramplet.addon.tgz",
