@@ -1,3 +1,3 @@
 {"t":'Exporter',"i":'Export GEDCOM for Geneanet',"n":'Export GEDCOM for Geneanet ',"v":'2.1.54',"g":'5.1',"d":'Extensions to the common GEDCOM format for Geneanet transfert.',"z":'GedcomforGeneanet.addon.tgz'}
-{"t":'Gramplet',"i":'Sosa',"n":'Sosa Gramplet',"v":'0.0.10',"g":'5.2',"d":'a gramplet that displays sosa of a person',"z":'TestGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'TestGr',"n":'Test Gramplet',"v":'0.0.19',"g":'5.2',"d":'a gramplet that displays sosa of a person',"z":'TestGramplet.addon.tgz'}
 {"t":'Importer',"i":'Import Geneanet format gwplus',"n":'Import Geneanet format gwplus',"v":'0.0.20',"g":'5.1',"d":'Import gwplus from geneanet',"z":'ImportGenewebPlus.addon.tgz'}
