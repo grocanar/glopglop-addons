@@ -35,9 +35,9 @@
 "i": "TestGr",
 "t": 10,
 "d": "a gramplet that displays sosa of a person",
-"v": "0.0.20",
+"v": "0.0.23",
 "g": "5.2",
-"s": 0,
+"s": 3,
 "z": "TestGramplet.addon.tgz",
 "h": "SosaGramplet"
 }
