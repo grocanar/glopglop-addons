@@ -1,0 +1,1 @@
+{"t":'Gramplet',"i":'Sosa',"n":'Sosa Gramplet',"v":'0.0.15',"g":'5.2',"d":'a gramplet that displays sosa of a person',"z":'TestGramplet.addon.tgz'}
