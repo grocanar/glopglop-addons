@@ -35,9 +35,9 @@
 "i": "TestGr",
 "t": 10,
 "d": "Test Gramplet",
-"v": "0.0.24",
+"v": "0.0.25",
 "g": "5.2",
-"s": 0,
+"s": 3,
 "z": "TestGramplet.addon.tgz",
 "h": "TestGramplet"
 }
