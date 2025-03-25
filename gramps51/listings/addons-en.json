@@ -4,20 +4,9 @@
 "i": "Export GEDCOM for Geneanet",
 "t": 4,
 "d": "Extensions to the common GEDCOM format for Geneanet transfert.",
-"v": "ERSIO.0.5",
+"v": "ERSIO.0.3",
 "g": "5.2",
 "s": 3,
 "z": "GedcomforGeneanet.addon.tgz"
-},
-{
-"n": "Test Gramplet",
-"i": "TestGr",
-"t": 10,
-"d": "Test Gramplet",
-"v": "0.0.27",
-"g": "5.2",
-"s": 3,
-"z": "TestGramplet.addon.tgz",
-"h": "TestGramplet"
 }
 ]
