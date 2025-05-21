@@ -4,9 +4,9 @@
 "i": "Import Geneanet format gwplus",
 "t": 3,
 "d": "Import gwplus from geneanet",
-"v": "0.0.29",
-"g": "5.2",
-"s": 0,
+"v": "0.0.20",
+"g": "6.0",
+"s": 3,
 "z": "ImportGenewebPlus.addon.tgz"
 },
 {

@@ -1,23 +1,12 @@
 [
 {
-"n": "Exportation GEDCOM sp\u00e9cifique \u00e0 G\u00e9n\u00e9anet ",
-"i": "Export GEDCOM for Geneanet",
-"t": 4,
-"d": "Extensions du format courant Gedcom pour un transfert vers G\u00e9n\u00e9anet",
-"v": "2.1.57",
+"n": "Import Geneanet format gwplus",
+"i": "Import Geneanet format gwplus",
+"t": 3,
+"d": "Import gwplus from geneanet",
+"v": "0.0.20",
 "g": "6.0",
 "s": 3,
-"z": "GedcomforGeneanet.addon.tgz"
-},
-{
-"n": "Test Gramplet",
-"i": "TestGr",
-"t": 10,
-"d": "Test Gramplet",
-"v": "0.0.27",
-"g": "5.2",
-"s": 3,
-"z": "TestGramplet.addon.tgz",
-"h": "TestGramplet"
+"z": "ImportGenewebPlus.addon.tgz"
 }
 ]
