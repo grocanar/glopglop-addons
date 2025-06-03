@@ -18,27 +18,5 @@
 "g": "6.0",
 "s": 3,
 "z": "GedcomforGeneanet.addon.tgz"
-},
-{
-"n": "Sosa Gramplet",
-"i": "Sosa",
-"t": 10,
-"d": "a gramplet that displays sosa of a person",
-"v": "1.0.34",
-"g": "5.2",
-"s": 0,
-"z": "SosaGramplet.addon.tgz",
-"h": "SosaGramplet"
-},
-{
-"n": "Test Gramplet",
-"i": "TestGr",
-"t": 10,
-"d": "Test Gramplet",
-"v": "0.0.26",
-"g": "5.2",
-"s": 3,
-"z": "TestGramplet.addon.tgz",
-"h": "TestGramplet"
 }
 ]

@@ -8,5 +8,15 @@
 "g": "6.0",
 "s": 3,
 "z": "ImportGenewebPlus.addon.tgz"
+},
+{
+"n": "Export GEDCOM for Geneanet ",
+"i": "Export GEDCOM for Geneanet",
+"t": 4,
+"d": "Extensions to the common GEDCOM format for Geneanet transfert.",
+"v": "2.1.57",
+"g": "6.0",
+"s": 3,
+"z": "GedcomforGeneanet.addon.tgz"
 }
 ]
